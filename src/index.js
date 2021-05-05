@@ -1,5 +1,5 @@
 import deburr from 'lodash.deburr';
-import widthsMap from './widthsMap';
+import widthsMap from './widthsMap.js';
 
 const settingsDefaults = { font: 'Arial', size: 100 };
 
